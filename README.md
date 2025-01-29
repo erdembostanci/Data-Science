@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @erdembostanci
+- https://www.linkedin.com/in/erdembostanci/
+
 - 👀 I’m interested in digital marketing and crm
 - 🌱 I’m currently learning data science
 - 📫 How to reach me: on linkedin (https://www.linkedin.com/in/erdembostanci/)
