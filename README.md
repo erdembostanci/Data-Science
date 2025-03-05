@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in digital marketing and crm
 - 🌱 I’m currently learning data science
-- 📫 How to reach me: on linkedin (https://www.linkedin.com/in/erdembostanci/)
+- 📫 How to reach me: on linkedin or email (https://www.linkedin.com/in/erdembostanci/  - erdembostanci@outlook.com)
 - ⚡ Fun fact: professions, software and seo will not die; btc will be reach 150k (yatırım tavsiyesi değildir.)
 
 <!---
