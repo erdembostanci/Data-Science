@@ -1,4 +1,4 @@
---Python RFM analizi için gerekli verilerin çekilmesi
+--Python RFM analizi iÃ§in gerekli verilerin Ã§ekilmesi
 SELECT 
 USERS.ID,
 USERS.NAMESURNAME AS ISIM_SOYISIM,
